@@ -1,0 +1,16 @@
+# Generic globs
+*~
+
+# ROS specifics
+/build/
+/msg_gen/
+/msg/*/
+/ROS_NOBUILD
+/src/*/srv/
+/src/*/msg/
+/srv_gen/
+/srv/*/
+
+# We have only messages here...
+src/timebug_msgs
+
